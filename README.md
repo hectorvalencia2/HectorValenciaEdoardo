@@ -14,9 +14,9 @@
 
 
 
-[<img align="left" alt="hector-valencia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="hector-valencia-a1016a246 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="hectorrrv2 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 [instagram]: https://www.instagram.com/hectorrrv2
-[linkedin]: https://linkedin.com/in/hector-valencia
+[linkedin]: https://linkedin.com/in/hector-valencia-a1016a246
