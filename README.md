@@ -17,5 +17,5 @@
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[instagram]: https://www.instagram.com/Josh
-[linkedin]: https://linkedin.com/in/Josh
+[instagram]: [https://www.instagram.com/Josh](https://www.instagram.com/hectorrrv2?igsh=MTJsMWJmMmJoaWZwNg%3D%3D&utm_source=qr)
+[linkedin]: [https://linkedin.com/in/Josh](https://www.linkedin.com/in/hector-valencia-a1016a246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)https://www.linkedin.com/in/hector-valencia-a1016a246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
